@@ -1,0 +1,21 @@
+a:link,a:visited
+{
+
+  background-color: dodgerblue;
+  color: aqua;
+  text-decoration: none;
+  padding: 10px 25px;
+  border-radius: 5px;
+  border: 1px solid dodgerblue;
+  color: white;
+}
+a:active
+{
+    color: white;
+    background-color: red;
+}
+a:hover
+{
+    /*background-color: red;
+    border: 1px solid red;*/
+}

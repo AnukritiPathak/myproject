@@ -1,0 +1,130 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+#wrapper{
+
+}
+
+section{
+    background-color: white;
+    height: 470px;
+    width: 800px;
+    border: 1px solid black;
+    margin-left: 400px;
+    margin-top: 100px;
+    border: 1px solid silver;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+
+}
+
+img{
+    width: 100px;
+    backface-visibility: hidden;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+h3{
+    margin-left: 30px;
+    margin-top: 4px;
+    font-size: 26px;
+    font-weight: 100;
+    text-decoration-style: solid;
+}
+
+.text1{
+    margin-left: 33px;
+    font-size: 20px;
+    margin-top: 10px;
+    color: lightblack;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+.image{
+    margin-left: 14px;
+    margin-top: 23px;
+}
+
+.num{
+    margin-left: 98px;
+    margin-top: -27px;
+    font-stretch: ultra-expanded;
+}
+.image1{
+    margin-left: 490px;
+    margin-top: -180px;
+}
+
+.txt{
+    text-decoration-line: none;
+    margin-left: 38px;
+    font-weight: bold;
+    font-size: 18px;
+    font-stretch: expanded;
+    margin-top: -80px;
+}
+
+input[type=button] {
+    background-color: #1a73e8;
+    /* Green */
+    border: 1px solid silver;
+    color: white;
+    padding: 10px 32px;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.btn{
+    margin-left: 320px;
+    margin-top: -33px;
+}
+
+.txt1{
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 230px;
+    margin-top: -28px;
+}
+
+.text3{
+    font-size: 18px;
+    color: darkgray;
+    font-weight: bold;
+    margin-left: 502px;
+    margin-top: 50px;
+}
+
+.select {
+    margin-top: 25px;
+    margin-left: 400px;
+
+}
+
+.text6 {
+    color: darkgray;
+    margin: -18px;
+    margin-left: 950px;
+}
+
+.text7 {
+    color: darkgray;
+    margin: -18px;
+    margin-left: 1050px;
+}
+
+.text8 {
+    color: darkgray;
+    margin: -18px;
+    margin-left: 1160px;
+}
+

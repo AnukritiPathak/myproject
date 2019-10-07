@@ -1,0 +1,48 @@
+#wrapper{}
+#google-left-side
+{
+    height: 100%;
+    margin-top: 10px;
+    width: 50%;
+    float: left;
+}
+section{
+
+    border: 1px solid gray;
+    border-radius: 7px 7px 7px 7px;
+    width: 800px;
+    height: 850px;
+    margin-left: 350px;
+
+}
+
+.img1{
+    margin-left: 430px;
+    margin-top: -590px;
+}
+a:link,a:visited
+{
+
+  background-color: dodgerblue;
+  color: aqua;
+  text-decoration: none;
+  padding: 10px 25px;
+  border-radius: 5px;
+  border: 1px solid dodgerblue;
+  color: white;
+}
+a:active
+{
+    color: white;
+    background-color: red;
+}
+a:hover
+{
+    /*background-color: red;
+    border: 1px solid red;*/
+}
+
+.drop{
+    margin-left: 350px;
+
+}
